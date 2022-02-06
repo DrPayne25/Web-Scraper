@@ -31,8 +31,11 @@ Estimate of time needed to complete: 1hrs
 
 Start time: 2:25
 
-Finish time: 
+Finish time: 5:10
 
-Actual time needed to complete: 50min
+Actual time needed to complete: 2hr 45min
+
+## Credits 
+Brandon, Eddie, Connor 
 
 
